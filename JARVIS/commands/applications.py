@@ -1,5 +1,6 @@
 import subprocess
 from voice.tts import falar
+from voice.tts import falar
 
 COMANDOS = {
     "abrir_vscode": {
